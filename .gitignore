@@ -1,0 +1,6 @@
+# Nand2Tetris temporary files
+*.temp
+*.log
+# OS generated files
+.DS_Store
+Thumbs.db
