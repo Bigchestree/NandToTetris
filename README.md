@@ -1,7 +1,3 @@
-이모티콘을 제외하고 깔끔하게 다듬은 README 내용입니다. `README.md` 파일에 복사해서 사용하세요.
-
----
-
 # Nand2Tetris Project
 
 > From Nand Gates to a Fully Functional Computer System
